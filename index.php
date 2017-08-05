@@ -258,8 +258,8 @@
 						<li><a href="#users">Personal</a></li>
 						<li><a href="#users">Landlord</a></li>
 						<li><a href="#users">Service Providers</a></li>
-						<li><a href="http://localhost/riverton/login">Login</a></li>
-						<li class="fh5co-cta-btn"><a href="http://localhost/riverton/customer_register">Sign up</a></li>
+						<li><a href="http://localhost/payless/login">Login</a></li>
+						<li class="fh5co-cta-btn"><a href="http://localhost/payless/customer_register">Sign up</a></li>
 					</ul>
 				</nav>
 			</div>
